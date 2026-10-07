@@ -1,0 +1,8 @@
+# One AliExpress product URL per line. Lines starting with # are ignored.
+https://www.aliexpress.com/item/1005006959700436.html
+https://www.aliexpress.com/item/1005006639944031.html
+https://www.aliexpress.com/item/1005009383937691.html
+https://www.aliexpress.com/item/1005007011478793.html
+https://www.aliexpress.com/item/1005006507011550.html
+https://www.aliexpress.com/item/1005006322926566.html
+https://www.aliexpress.com/item/1005004803971672.html

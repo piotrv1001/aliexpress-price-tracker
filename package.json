@@ -1,0 +1,17 @@
+{
+  "name": "aliexpress-price-tracker",
+  "version": "1.0.0",
+  "description": "Track AliExpress prices and stock in Postgres with Apify, get an AI buy/wait digest and an HTML price report.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "ingest": "node --env-file-if-exists=.env src/ingest.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0",
+    "pg": "^8.23.1"
+  }
+}
