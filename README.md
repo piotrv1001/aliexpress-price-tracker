@@ -131,3 +131,6 @@ watchlist.txt      the products you track
   job hunting
 - [Clutch lead generation pipeline](https://github.com/piotrv1001/clutch-lead-generation-pipeline) — the same pattern
   for B2B leads
+- [Mercado Libre price tracker](https://github.com/piotrv1001/mercado-libre-price-tracker) — tracks a whole search instead of a watchlist, with Claude grouping listings
+  into comparable models
+- [Brand mention monitor](https://github.com/piotrv1001/brand-mention-monitor) — the same pattern for Threads, Reddit and Google News mentions
